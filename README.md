@@ -30,3 +30,6 @@ Se você baixou o código-fonte como um arquivo ZIP:
 -   **HTML5:** Para a estrutura da calculadora.
 -   **CSS3:** Para a estilização, incluindo um visual moderno com variáveis CSS e Grid Layout.
 -   **JavaScript (ES6+):** Para a lógica da calculadora e interatividade.
+![calculadora](https://github.com/user-attachments/assets/c9dabacf-6c26-4080-b3ae-d0145bd23b49)
+
+-   
